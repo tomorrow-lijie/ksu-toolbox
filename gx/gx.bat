@@ -300,7 +300,7 @@ CLS
 %.%          41.android14-6.1.57
 %.%          42.android14-6.1.68
 %.%          43.android14-6.1.75
-%.%          44.红米note11 pro(4.14.186)
+%.%          44.红米note11-pro-4.14.186
 %.%             （002.上一页 ）
 %.%%..%
 %.%
@@ -310,7 +310,7 @@ set inpt=
 if /i "%Input%"=="41" %传送% 14-6.1.57
 if /i "%Input%"=="42" %传送% 14-6.1.68
 if /i "%Input%"=="43" %传送% 14-6.1.75
-if /i "%Input%"=="44" %传送% 4.14.186
+if /i "%Input%"=="44" %传送% note11-pro-4.14.186
 ::if /i "%Input%"=="45" %传送%
 ::if /i "%Input%"=="46" %传送%
 ::if /i "%Input%"=="47" %传送%
@@ -636,7 +636,7 @@ CLS
 @wget -O boot.img https://mirror.ghproxy.com/https://github.com/tomorrow-lijie/ksu-toolbox/blob/main/android13-5.15.78_2023-03-boot-gz.img > /null 2>&1
 %传送% 检查并刷入
 
-:4.14.186
+:note11-pro-4.14.186
 CLS
 %.%
 %.%正在下载img镜像文件... 
