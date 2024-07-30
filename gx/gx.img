@@ -640,7 +640,7 @@ CLS
 CLS
 %.%
 %.%正在下载img镜像文件... 
-@wget -O boot.img https://mirror.ghproxy.com/https://github.com/tomorrow-lijie/ksu-toolbox/blob/main/%E7%BA%A2%E7%B1%B3note11%20pro%204.14.186.img > /null 2>&1
+@wget -O boot.img https://mirror.ghproxy.com/https://github.com/tomorrow-lijie/ksu-toolbox/blob/main/note11-pro-4.14.186.img > /null 2>&1
 %传送% 检查并刷入
 
 :检查并刷入
